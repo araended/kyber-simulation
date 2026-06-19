@@ -4,6 +4,8 @@ A lightweight, Python-based simulation of the Module Lattice-Based Key Encapsula
 
 This repository serves as a computational proof-of-concept for an academic paper in Discrete Mathematics, exploring the foundational mathematics on post-quantum cryptography and lattice-based security.
 
+The script was executed for 10 independent trial cycles to accurately measure the sub-millisecond execution times and validate the framework's practical efficiency. Below are the raw execution logs:
+
 ```bash
 python kyber.py
 
